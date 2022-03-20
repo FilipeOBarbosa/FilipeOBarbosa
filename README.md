@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/FilipeOBarbosa/FilipeOBarbosa">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=FilipeOBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOBarbosa&langs_count=5&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FilipeOBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOBarbosa&langs_count=5&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Java" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
    
   ##
